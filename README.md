@@ -6,7 +6,9 @@ The Python script we'll be looking at uses a fresh random IP address produced ev
 
 ## Commands
 `git clone https://github.com/ch3tanbug/Dark_Web_Crawler.git`
+
 `cd Dark_Web_Crawler`
+
 `pip install -r requirements.txt`
 
 ## Usage
@@ -23,6 +25,7 @@ Locate the torrc Configuration File:
 The torrc configuration file contains settings for your Tor instance. The location of this file depends on your operating system. Common locations are:
 
 `Linux: /etc/tor/torrc or ~/.torrc`
+
 `Windows: C:\Users\<Username>\AppData\Roaming\tor\torrc`
 
 Edit the torrc File:
