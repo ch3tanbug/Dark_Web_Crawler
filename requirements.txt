@@ -1,0 +1,4 @@
+art==6.0
+beautifulsoup4==4.12.2
+Requests==2.31.0
+stem==1.8.2
