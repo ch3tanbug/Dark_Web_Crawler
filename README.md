@@ -45,4 +45,7 @@ This command will output a hashed version of your password. Copy that hash and u
 
 Save the file change the new password in the python script and restart the TOR and the python script.
 
+## Images
+![Alt text](https://github.com/ch3tanbug/Dark_Web_Crawler/blob/main/darkweb.PNG)
+
 
